@@ -58,7 +58,7 @@ To enhance collaboration, the application displays the list of users currently e
 
 Integrating a chat feature within the application allows users to communicate in real time without leaving the document. This can be particularly useful for discussing changes or providing feedback.
 
- Conclusion
+ ## Conclusion
 
 Building a collaborative tool for coding or note-taking with real-time updates using WebSockets is a complex but highly rewarding endeavor. By leveraging technologies such as React, Node.js, and WebSockets, you can create a powerful platform that enhances productivity and collaboration. This tool can be especially useful for remote teams, educational settings, or any scenario where real-time collaboration is essential.
 
